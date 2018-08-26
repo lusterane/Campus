@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1481174859 source:c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\main.cpp
+	<iostream>
+	"Student.h"
+	"Campus.h"
+	<ctime>
+	<stdlib.h>
+
+1481244119 c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\include\student.h
+	"Person.h"
+	"Campus.h"
+	<iostream>
+	<string>
+	"Trash.h"
+
+1481243814 c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\include\campus.h
+	<iostream>
+	<string>
+
+1481243814 source:c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\src\campus.cpp
+	"Campus.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<tgmath.h>
+	<string>
+
+1481244119 source:c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\src\student.cpp
+	"Student.h"
+	"Campus.h"
+	<string>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1481172647 source:c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\src\person.cpp
+	"Person.h"
+	<string>
+	<iostream>
+
+1481172820 c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\include\person.h
+	<iostream>
+	<string>
+
+1481154684 c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\include\trash.h
+	<iostream>
+	<string>
+
+1481154683 source:c:\users\toby\desktop\classes\cs 1337\assignments\assignment4\src\trash.cpp
+	"Trash.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+	<fstream>
+
+1481256973 source:c:\users\toby\desktop\assignment4\main.cpp
+	<iostream>
+	"Student.h"
+	"Campus.h"
+	<ctime>
+	<stdlib.h>
+
+1481244119 c:\users\toby\desktop\assignment4\include\student.h
+	"Person.h"
+	"Campus.h"
+	<iostream>
+	<string>
+	"Trash.h"
+
+1481260010 c:\users\toby\desktop\assignment4\include\person.h
+	<iostream>
+	<string>
+
+1481259180 c:\users\toby\desktop\assignment4\include\campus.h
+	<iostream>
+	<string>
+
+1481247324 c:\users\toby\desktop\assignment4\include\trash.h
+	<iostream>
+	<string>
+
+1481260209 source:c:\users\toby\desktop\assignment4\src\campus.cpp
+	"Campus.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<tgmath.h>
+	<string>
+
+1481257332 source:c:\users\toby\desktop\assignment4\src\person.cpp
+	"Person.h"
+	<string>
+	<iostream>
+	<ctime>
+
+1481260273 source:c:\users\toby\desktop\assignment4\src\student.cpp
+	"Student.h"
+	"Campus.h"
+	<string>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1481247324 source:c:\users\toby\desktop\assignment4\src\trash.cpp
+	"Trash.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+	<fstream>
+

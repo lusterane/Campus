@@ -1,0 +1,11 @@
+10
+sodaCan 5
+usedGum 4
+textbook 10
+candyWrapper 1
+glass 6
+key 8
+bottle 2
+deadAnimal 9
+pen 2
+cup 3
