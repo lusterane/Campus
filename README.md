@@ -1,5 +1,5 @@
 # Campus
-Simulated Campus of Students that Interacts with Environment, School Project written in C++
+Simulated College Campus of Students that Interacts with Environment, School Project written in C++
 
 ## What is it?
 This is a class assignment that I made for my programming class. In this class I learned many topics in C++ such as how to define and implement a class and use fundamentals of 
